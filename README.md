@@ -34,7 +34,7 @@ V.	REFERENCES
 [4] LeLaurin JH, Shorr RI. Preventing Falls in Hospitalized Patients: State of the Science. Clin Geriatr Med. 2019 May;35(2):273-283. doi: 10.1016/j.cger.2019.01.007. Epub 2019 Mar 1. PMID: 30929888; PMCID: PMC6446937.
 [5] Dariusz Mrozek, Anna Koczur, Bożena Małysiak-Mrozek,Fall detection in older adults with mobile IoT devices and machine learning in the cloud and on the edge,Information Sciences,Volume 537,2020,Pages 132-147
 [6] Nur Izdihar Muhd Amir, Rudzidatul Akmam Dziyauddin, Norliza Mohamed, et al. Fall Detection System using Wearable Sensor  Devices and Machine Learning: A Review. TechRxiv. March 19, 2024.
-[7] Wearable Fall Detection System Using Barometric Pressure Sensors and Machine Learning ,bunu sor ,
+[7] Wearable Fall Detection System Using Barometric Pressure Sensors and Machine Learning 
 [8] Gutiérrez J, Rodríguez V, Martin S. Comprehensive Review of Vision-Based Fall Detection Systems. Sensors (Basel). 2021 Feb 1;21(3):947. doi: 10.3390/s21030947.
 [9] Usmani S, Saboor A, Haris M, Khan MA, Park H. Latest Research Trends in Fall Detection and Prevention Using Machine Learning: A Systematic Review. Sensors (Basel). 2021 Jul 29;21(15):5134. doi: 10.3390/s21155134.
 [10] Yelne S, Chaudhary M, Dod K, Sayyad A, Sharma R. Harnessing the Power of AI: A Comprehensive Review of Its Impact and Challenges in Nursing Science and Healthcare. Cureus. 2023 Nov 22;15(11):e49252. doi: 10.7759/cureus.49252.
